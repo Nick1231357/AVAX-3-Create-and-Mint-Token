@@ -1,4 +1,4 @@
-# Project-Create-and-Mint-Token
+# Project Create and Mint Token
 
 This Solidity program is a simple "Create and Mint Token" program that demonstrates the contract owner able to mint tokens to a provided address and any user should be able to burn and transfer tokens.
 
